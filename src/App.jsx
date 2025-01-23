@@ -51,7 +51,7 @@ function App() {
         <h1>PlacePicker</h1>
         <p>
           Create your personal collection of places you would like to visit or
-          you have visited. test TEST2 TEEEST3 TEST4 test5 TEST6 test7 test8 test9
+          you have visited. test TEST2 TEEEST3 TEST4 test5 TEST6 test7 test8 test9 test10
         </p>
       </header>
       <main>
