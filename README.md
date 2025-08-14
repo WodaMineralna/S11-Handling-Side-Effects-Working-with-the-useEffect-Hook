@@ -5,8 +5,9 @@ Practice code for Section 11 - Handling Side Effects & Working with the useEffec
 This project covers
 - Side effects with useEffect
 - Cleanup functions and dependency arrays
-Project type
-- Based on a guided project
+
+# Project type
+Implemented as part of a guided course project, with additional features and customizations added independently.
 
 ## Tech Stack
 - React
