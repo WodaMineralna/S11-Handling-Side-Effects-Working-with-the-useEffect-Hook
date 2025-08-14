@@ -2,7 +2,7 @@
 
 Practice code for Section 11 - Handling Side Effects & Working with the useEffect() Hook, part of the course "React - The Complete Guide (incl. Redux)" by Maximilian Schwarzmüller.
 
-This project covers
+This project covers:
 - Side effects with useEffect
 - Cleanup functions and dependency arrays
 
